@@ -1,0 +1,18 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "uuidsearch.js" ]
+   },
+   "browser_action": {
+      "default_icon": "ccicon48.png"
+   },
+   "description": "Deprecated; use [REDACTED] Instead!",
+   "icons": {
+      "16": "ccicon16.png",
+      "48": "ccicon48.png"
+   },
+   "manifest_version": 2,
+   "name": "Use [REDACTED] Instead!",
+   "update_url": "[REDACTED]",
+   "version": "1.2.2"
+}
